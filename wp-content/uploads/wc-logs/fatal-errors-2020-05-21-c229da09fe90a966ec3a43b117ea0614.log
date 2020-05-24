@@ -1,0 +1,8 @@
+2020-05-21T03:51:55+00:00 CRITICAL Maximum execution time of 180 seconds exceeded in C:\xampp\htdocs\DA_wordpress\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\AbstractBlock.php on line 10
+
+2020-05-21T19:05:43+00:00 CRITICAL Out of memory (allocated 16777216) (tried to allocate 36864 bytes) in C:\xampp\htdocs\DA_wordpress\wp-content\plugins\yith-woocommerce-wishlist\plugin-fw\lib\yit-icons.php on line 40
+
+2020-05-21T19:05:55+00:00 CRITICAL Out of memory (allocated 33554432) (tried to allocate 20480 bytes) in C:\xampp\htdocs\DA_wordpress\wp-includes\taxonomy.php on line 444
+
+2020-05-21T19:52:21+00:00 CRITICAL Maximum execution time of 180 seconds exceeded in C:\xampp\htdocs\DA_wordpress\wp-content\plugins\elementor\modules\safe-mode\module.php on line 10
+
